@@ -1,0 +1,13 @@
+# Xcode
+.idea/
+*.xccheckout
+.idea/
+*node_modules/
+*.tmp/
+dist/
+baidu/
+*.log
+test/unit/coverage
+.wepycache
+.idea/workspace.xml
+.DS_Store
